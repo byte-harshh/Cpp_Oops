@@ -24,6 +24,7 @@ using namespace std;
 //     return 0;
 // } 
 
+//*** Pass by Value ***
 // void swap(int a, int b){
 //     cout <<a<<" "<<b<<endl;
 //     int temp;
@@ -39,8 +40,8 @@ using namespace std;
 //     }
 
 
+//*** Pass by Address ***
 // void swap(int *a, int *b){
-
 //     int temp;
 //     temp = *a;
 //     *a = *b;
@@ -53,6 +54,7 @@ using namespace std;
 //         cout<<x<<" "<<y;
 //     }
 
+//*** Pass by Reference ***
 // void swap(int &a, int &b){
 //     cout<<&a<<" "<<&b<<endl;
 //     int temp;
