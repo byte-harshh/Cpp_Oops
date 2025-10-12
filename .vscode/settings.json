@@ -57,5 +57,8 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
-  "C_Cpp.windowsErrorReportingMode": "default"
+  "C_Cpp.windowsErrorReportingMode": "default",
+  "files.associations": {
+    "iostream": "cpp"
+  }
 }
